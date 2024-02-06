@@ -26,3 +26,43 @@ let someNumber = 33
 let stringNumber = String(someNumber)
 // console.log(stringNumber);
 // console.log(typeof stringNumber);
+
+// ******************** OPERTION ***************
+
+let value = 4
+let negValue = -value
+// console.log(negValue)
+
+// console.log(2+2)
+// console.log(2-2)
+// console.log(2*2)
+// console.log(2**3)
+// console.log(2/2)
+// console.log(2%2)
+
+let str1 = 65
+let str2 = 67
+let str3 = str1 + str2
+// console.log(str3)
+
+// console.log("1" + 3)
+// console.log(1 + "5")
+// console.log("5" + "7")
+// console.log("1" + 54 + 34)
+
+let stringAndnumber = 34 + 78 + "1"
+// console.log(stringAndnumber)
+// console.log(typeof stringAndnumber)
+
+// console.log((3+7)*5%8)
+
+// console.log(+true);
+// console.log(+"");
+
+let num1, num2, num3
+
+num1 = num2 = num3 = 2 + 2
+
+let gameCounter = 100
+++gameCounter;
+// console.log(gameCounter);
